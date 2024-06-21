@@ -275,7 +275,7 @@ int main(void)
 		//processes events depending on camtype
 
 		vecCameras[camType]->processEvents({ 0,0,0 }, { 0,0,0 });
-		std::cout << Orthographic->cameraPos[0] << " " << Orthographic->cameraPos[1] << " " << Orthographic->cameraPos[2] << " " << Orthographic->cam_phi_mod << " " << Orthographic->cam_theta_mod << std::endl;
+		//std::cout << Orthographic->cameraPos[0] << " " << Orthographic->cameraPos[1] << " " << Orthographic->cameraPos[2] << " " << Orthographic->cam_phi_mod << " " << Orthographic->cam_theta_mod << std::endl;
 		//std::cout << ThirdPerson->cameraPos[0] << " " << ThirdPerson->cameraPos[1] << " " << ThirdPerson->cameraPos[2] << " " << ThirdPerson->cam_phi_mod << " " << ThirdPerson->cam_theta_mod << std::endl;
 
 
