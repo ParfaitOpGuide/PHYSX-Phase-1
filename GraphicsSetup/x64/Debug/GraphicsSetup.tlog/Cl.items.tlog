@@ -1,0 +1,15 @@
+E:\VSC\Y2T3 PHYSX\Base\Camera\MyCamera.cpp;E:\VSC\Y2T3 PHYSX\Base\GraphicsSetup\x64\Debug\MyCamera.obj
+E:\VSC\Y2T3 PHYSX\Base\Camera\OrthoCamera.cpp;E:\VSC\Y2T3 PHYSX\Base\GraphicsSetup\x64\Debug\OrthoCamera.obj
+E:\VSC\Y2T3 PHYSX\Base\Camera\ThirdPersonCamera.cpp;E:\VSC\Y2T3 PHYSX\Base\GraphicsSetup\x64\Debug\ThirdPersonCamera.obj
+E:\VSC\Y2T3 PHYSX\Base\Camera\FirstPersonCamera.cpp;E:\VSC\Y2T3 PHYSX\Base\GraphicsSetup\x64\Debug\FirstPersonCamera.obj
+E:\VSC\Y2T3 PHYSX\Base\glad.c;E:\VSC\Y2T3 PHYSX\Base\GraphicsSetup\x64\Debug\glad.obj
+E:\VSC\Y2T3 PHYSX\Base\Light\DirectionLight.cpp;E:\VSC\Y2T3 PHYSX\Base\GraphicsSetup\x64\Debug\DirectionLight.obj
+E:\VSC\Y2T3 PHYSX\Base\Light\Light.cpp;E:\VSC\Y2T3 PHYSX\Base\GraphicsSetup\x64\Debug\Light.obj
+E:\VSC\Y2T3 PHYSX\Base\Light\PointLight.cpp;E:\VSC\Y2T3 PHYSX\Base\GraphicsSetup\x64\Debug\PointLight.obj
+E:\VSC\Y2T3 PHYSX\Base\main.cpp;E:\VSC\Y2T3 PHYSX\Base\GraphicsSetup\x64\Debug\main.obj
+E:\VSC\Y2T3 PHYSX\Base\Object\Model.cpp;E:\VSC\Y2T3 PHYSX\Base\GraphicsSetup\x64\Debug\Model.obj
+E:\VSC\Y2T3 PHYSX\Base\Object\Model3D.cpp;E:\VSC\Y2T3 PHYSX\Base\GraphicsSetup\x64\Debug\Model3D.obj
+E:\VSC\Y2T3 PHYSX\Base\Object\ModelExtra.cpp;E:\VSC\Y2T3 PHYSX\Base\GraphicsSetup\x64\Debug\ModelExtra.obj
+E:\VSC\Y2T3 PHYSX\Base\P6\MyVector.cpp;E:\VSC\Y2T3 PHYSX\Base\GraphicsSetup\x64\Debug\MyVector.obj
+E:\VSC\Y2T3 PHYSX\Base\P6\PhysicsWorld.cpp;E:\VSC\Y2T3 PHYSX\Base\GraphicsSetup\x64\Debug\PhysicsWorld.obj
+E:\VSC\Y2T3 PHYSX\Base\ShaderClasses\Shader.cpp;E:\VSC\Y2T3 PHYSX\Base\GraphicsSetup\x64\Debug\Shader.obj

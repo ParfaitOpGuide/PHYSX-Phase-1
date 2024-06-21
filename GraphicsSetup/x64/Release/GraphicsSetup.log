@@ -1,0 +1,28 @@
+﻿  OrthoCamera.cpp
+  main.cpp
+E:\VSC\Y2T3 PHYSX\Base\P6\DragForceGenerator.h(9,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+E:\VSC\Y2T3 PHYSX\Base\P6\DragForceGenerator.h(10,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+E:\VSC\Y2T3 PHYSX\Base\main.cpp(100,45): warning C4305: '+=': truncation from 'double' to 'float'
+E:\VSC\Y2T3 PHYSX\Base\main.cpp(103,45): warning C4305: '-=': truncation from 'double' to 'float'
+E:\VSC\Y2T3 PHYSX\Base\main.cpp(106,44): warning C4305: '+=': truncation from 'double' to 'float'
+E:\VSC\Y2T3 PHYSX\Base\main.cpp(110,44): warning C4305: '-=': truncation from 'double' to 'float'
+E:\VSC\Y2T3 PHYSX\Base\main.cpp(143,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\VSC\Y2T3 PHYSX\Base\main.cpp(143,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\VSC\Y2T3 PHYSX\Base\main.cpp(207,26): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+E:\VSC\Y2T3 PHYSX\Base\main.cpp(207,19): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+E:\VSC\Y2T3 PHYSX\Base\main.cpp(229,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\VSC\Y2T3 PHYSX\Base\main.cpp(235,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\VSC\Y2T3 PHYSX\Base\main.cpp(238,102): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+E:\VSC\Y2T3 PHYSX\Base\main.cpp(238,79): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+E:\VSC\Y2T3 PHYSX\Base\main.cpp(238,42): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+E:\VSC\Y2T3 PHYSX\Base\main.cpp(285,7): warning C4101: 'shaderCount': unreferenced local variable
+  Generating code
+  1 of 2485 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GraphicsSetup.vcxproj -> E:\VSC\Y2T3 PHYSX\Base\x64\Release\GraphicsSetup.exe
